@@ -3,7 +3,9 @@
  
  201624462 김한영
 
-RESNET-56, EPOCH : 100, BATCH : 128
+
+TABLE FOR 
+   RESNET-56, EPOCH : 100, BATCH : 128
 
 ||CALTECH-101 | CALTECH-256| CIFAR-10 | CIFAR-100|
 |-----|-----|-----|-----|-----|
