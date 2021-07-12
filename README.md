@@ -11,5 +11,5 @@ TABLE FOR
 
 ||CALTECH-101 | CALTECH-256| CIFAR-10 | CIFAR-100|
 |-----|-----|-----|-----|-----|
-|BUILTED MODEL| loss: 0.8956 - accuracy: 0.8403|NA|loss: 1.6422, accuracy: 0.8079|loss: 6.9260, accuracy: 0.4518|
+|BUILTED MODEL| loss: 0.8956 - accuracy: 0.8403|loss : 3.1238, accuracy: 0.5647|loss: 1.6422, accuracy: 0.8079|loss: 6.9260, accuracy: 0.4518|
 |EXISTING MODEL|loss: 1.9486, accuracy: 0.7583|loss: 4.4605, accuracy: 0.5168|loss: 0.5328, accuracy: 0.9153|loss: 1.8815, accuracy: 0.6797|
