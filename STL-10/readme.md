@@ -26,4 +26,4 @@ Constructed On
  * learning_rate_variable = 3 # initial learning rate : 1e-learning rate
 
 Result 
-  * loss: 0.2133 - acc: 0.9982 - val_loss: 0.9613 - val_acc: 0.8180
+  * loss: 0.2153 - acc: 0.9972 - val_loss: 0.9617 - val_acc: 0.8195
