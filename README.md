@@ -14,5 +14,5 @@ TABLE FOR
  * ResNet-56, ResNet-32 Comparison with EPOCH : 200, BATCH : 32, Initial Learning Rate : 0.001
       ||CALTECH-101 | CALTECH-256| CIFAR-10 | CIFAR-100|SIFAR-10|
       |------|------|------|------|------|------|
-      |RestNet-56| loss: 0.1281  acc: 0.9921  val_loss: 1.7210  val_acc: 0.7753  Best at EPOCH 120 |loss: 0.3951 - acc: 0.9498 - val_loss: 3.9402 - val_acc: 0.5289 - Best at EPOCH 124|loss: 0.1641 - acc: 0.9876 - val_loss: 0.4284 - val_acc: 0.9228 - Best at EPOCH 135|loss: 0.5547 - acc: 0.9293 - val_loss: 1.6735 - val_acc: 0.6983 - Best at EPOCH 125|loss: 0.2511 - acc: 0.9986 - val_loss: 1.0106 - val_acc: 0.8224 - Best at EPOCH 195|
+      |RestNet-56| loss: 0.1281 - acc: 0.9921 - val_loss: 1.7210 - val_acc: 0.7753 - Best at EPOCH 120 |loss: 0.3951 - acc: 0.9498 - val_loss: 3.9402 - val_acc: 0.5289 - Best at EPOCH 124|loss: 0.1641 - acc: 0.9876 - val_loss: 0.4284 - val_acc: 0.9228 - Best at EPOCH 135|loss: 0.5547 - acc: 0.9293 - val_loss: 1.6735 - val_acc: 0.6983 - Best at EPOCH 125|loss: 0.2511 - acc: 0.9986 - val_loss: 1.0106 - val_acc: 0.8224 - Best at EPOCH 195|
       |ResNet-32|NA|NA|NA|NA|NA|
