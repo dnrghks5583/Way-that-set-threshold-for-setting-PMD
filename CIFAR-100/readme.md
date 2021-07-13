@@ -3,7 +3,7 @@ CIFAR-100_ResNet56v1_model.125.h5
 Constructed On
  * batch_size = 32  
  * epochs = 200, save best only = True  
- * num_classes = 10
+ * num_classes = 100
  * data_augmentation = True  
  * subtract_pixel_mean = True  
  * version = 1  
