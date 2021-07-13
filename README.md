@@ -6,8 +6,6 @@
 
 TABLE FOR 
    RESNET-56, EPOCH : 100, BATCH : 128
-   
-   Due to OOM issue, CALTECH-101 was performed with batch size 32
 
 ||CALTECH-101 | CALTECH-256| CIFAR-10 | CIFAR-100|
 |-----|-----|-----|-----|-----|
