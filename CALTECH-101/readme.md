@@ -1,4 +1,4 @@
-CALTECH-101_ResNet56v1_model.120.h5
+* CALTECH-101_ResNet56v1_model.120.h5
 
    Constructed On
     * batch_size = 32  
@@ -13,7 +13,7 @@ CALTECH-101_ResNet56v1_model.120.h5
      * loss: 0.1281 - acc: 0.9921 - val_loss: 1.7210 - val_acc: 0.7753
 
 
-*CALTECH-101_ResNet32v1_model.156.h5
+* CALTECH-101_ResNet32v1_model.156.h5
 
    Constructed On
     * batch_size = 32  
