@@ -1,4 +1,4 @@
-* CALTECH-101_ResNet56v1_model.120.h5
+* CALTECH-101_ResNet56v1_model.138.h5
 
    Constructed On
     * batch_size = 32  
@@ -10,10 +10,10 @@
     * learning_rate_variable = 3 # initial learning rate : 1e-learning rate
 
    Result 
-        * loss: 0.1281 - acc: 0.9921 - val_loss: 1.7210 - val_acc: 0.7753
+        * loss: 0.1433 - acc: 0.9959 - val_loss: 1.4723 - val_acc: 0.7835
 
 
-* CALTECH-101_ResNet32v1_model.156.h5
+* CALTECH-101_ResNet32v1_model.142.h5
 
    Constructed On
     * batch_size = 32  
@@ -25,4 +25,4 @@
     * learning_rate_variable = 3 # initial learning rate : 1e-learning rate
 
    Result 
-     * loss: 0.1205 - acc: 0.9955 - val_loss: 1.8885 - val_acc: 0.7654
+     * loss: 0.1435 - acc: 0.9964 - val_loss: 1.5656 - val_acc: 0.7731
