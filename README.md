@@ -18,10 +18,16 @@ TABLE FOR
       |ResNet-32|loss: 1.5656,  accuracy:0.7731, Best at EPOCH-142 |loss: 3.8459,  accuracy:0.5203, Best at EPOCH-152 |loss: 0.4350, accuracy:0.9216, Best at-EPOCH 199|loss: 1.6230, accuracy:0.6938, Best at EPOCH-140|loss: 0.9617, accuracy:0.8195, Best at EPOCH-170|loss: 0.6186, accuracy:0.8885, Best at EPOCH-105|
 
 
-Threshold v1 = Static threshold 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9 Dynamic threshold = 95%, 97.5%, 99% one-tails
+Threshold v1 
+ * Static threshold 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9 
+ * Dynamic threshold = 95%, 97.5%, 99% one-tails
 
 
-Threshold v2 = Static threshold 0.0000001, 0.000001, 0.00001, 0.00005, 0.0001, 0.0005, 0.001, 0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5 , Dynamic threshold = 95%, 97.5%, 99% one-tails
+Threshold v2 
+ * Static threshold 0.0000001, 0.000001, 0.00001, 0.00005, 0.0001, 0.0005, 0.001, 0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5 
+ * Dynamic threshold = 95%, 97.5%, 99% one-tails
 
 
-Threshold FINAL = Static threshold 0.0000001, 0.000001, 0.00001, 0.00005, 0.0001, 0.0005, 0.001, 0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5 , Dynamic threshold = min * Alpha (Alpha = [0.05, 0.1, 0.2, 0.3, 0.4, 0.5])
+Threshold FINAL 
+ * Static threshold 0.0000001, 0.000001, 0.00001, 0.00005, 0.0001, 0.0005, 0.001, 0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5 
+ * Dynamic threshold = min * Alpha (Alpha = 0.05, 0.1, 0.2, 0.3, 0.4, 0.5)
